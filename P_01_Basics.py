@@ -1,1 +1,1 @@
-print("i am very evil")
+print("i am nor sm i very evil")
